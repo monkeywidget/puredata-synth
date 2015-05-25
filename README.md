@@ -1,6 +1,8 @@
 # puredata-synth
 
-Some synthesizers for PureData (mostly with arduino physical controls)
+Some synthesizers for PureData (mostly with arduino physical controls).
+
+Authored by monkeywidget -- please read the accompanying LICENSE file.
 
 # Hardware description
 
